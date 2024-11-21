@@ -12,10 +12,10 @@
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
   <span><strong>BSc</strong> in Computer Engineering @ UIUC</span>
-  <span>Aug. 2016 ~ May. 2019</span>
+  <span>Aug. 2014 ~ May. 2019</span>
 </div>
 <ul style="font-size: 0.95em; margin-top 2px;">
   <li>Champaign, IL, USA</li>
-  <li>GPA 4.05 / 4.3 (Graduation with <i>Honors</i>)</li>
-  <li>Dean's List (Aug. 2016 ~ May. 2017)</li>
+  <li>GPA 3.76 / 4.3 (Graduation with <i>Honors</i>)</li>
+  <li>Dean's List (Aug. 2014 ~ May. 2017)</li>
 </ul>
