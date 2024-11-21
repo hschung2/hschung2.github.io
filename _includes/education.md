@@ -1,11 +1,21 @@
 ## 🎓 Educations
-- **MSc** in Computer Science and Engineering @ POSTECH
-    - Pohang, South Korea | Sep. 2019 ~ Aug. 2021
-    - GPA 4.05 / 4.3
-    - Advisor: Prof. Minsu Cho
-    - Thesis: Combinatorial Construction with Reinforcement Learning
-- **BSc** in Computer Engineering @ UIUC
-    - Champaign, IL, USA | Aug. 2016 ~ May. 2019
-    - GPA: 3.76 / 4.0 
-    - Dean's List (Aug. 2016 ~ May. 2017)
-    - Graduation with Honors
+<div style="display: flex; justify-content: space-between; width: 100%;">
+  <span><strong>MSc</strong> in Computer Science and Engineering</span>
+  <span>Sep. 2019 ~ Aug. 2021</span>
+</div>
+<ul style="font-size: 0.8em; margin-top: 10px;">
+  <li>Pohang, South Korea</li>
+  <li>GPA 4.05 / 4.3</li>
+  <li>Advisor: Prof. Minsu Cho</li>
+  <li>Thesis: Combinatorial Construction with Reinforcement Learning</li>
+</ul>
+
+<div style="display: flex; justify-content: space-between; width: 100%;">
+  <span><strong>BSc</strong> in Computer Engineering @ UIUC</span>
+  <span>Aug. 2016 ~ May. 2019</span>
+</div>
+<ul style="font-size: 0.8em; margin-top: 10px;">
+  <li>Champaign, IL, USA</li>
+  <li>GPA 4.05 / 4.3 (Graduation with <i>Honors</i>)</li>
+  <li>Dean's List (Aug. 2016 ~ May. 2017)</li>
+</ul>

@@ -4,22 +4,10 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am currently a Machine Learning Engineer at Omnious AI located in Seoul, South Korea. Previously, I received my Master’s Degree in Computer Science and Engineering from POSTECH under the supervision of Prof. Minsu Cho. I also completed my Bachelor’s Degree in Computer Engineering from the University of Illinois at Urbana-Champaign.
 
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+My research interests broadly include recommendation systems, applications of reinforcement learning, and integration of foundation models. Specifically, I am interested in 1) designing sample-efficient training algorithms for recommendation systems, 2) tackling combinatorial optimization problems with reinforcement learning, and 3) leveraging LLM into enhanced recommendations.
 
 {% include_relative _includes/education.md %}
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
