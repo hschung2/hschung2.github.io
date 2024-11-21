@@ -3,41 +3,45 @@ main:
   - title: Exploiting Preferences in Loss Functions for Sequential Recommendation via Weak Transitivity
     authors: <strong>Hyunsoo Chung</strong>, Jungtaek Kim, Hyungeun Jo, Hyungwon Choi
     conference_short: CIKM
-    conference: Proceedings of the ACM International Conference on Information and Knowledge Management, Short Research Paper Track <strong>(CIKM)</strong>, 2024.
+    conference: International Conference on Information and Knowledge Management, Short Research Paper Track <strong>(CIKM)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2408.00326
+    bibtex: https://dblp.org/rec/conf/cikm/Chung0JC24.html?view=bibtex
     image: ./assets/img/cikm_pw_teaser.PNG
 
   - title: "Leveraging Uniformity of Normalized Embeddings for Sequential Recommendation"
     authors: <strong>Hyunsoo Chung</strong>, Jungtaek Kim
     conference_short: NeurIPS
-    conference: Conference on Neural Information Processing Systems Workshop on Self-Supervised Learning - Theory and Practice (SSL-TP) <strong>(NeurIPS-W)</strong>, 2023.
+    conference: NeurIPS Workshop on Self-Supervised Learning - Theory and Practice <strong>(NeurIPS-W)</strong>, 2023.
     pdf: https://jungtaekkim.github.io/assets/pdf/papers/ssl_tp_2023.pdf
     image: ./assets/img/ssl_tp_teaser.PNG
 
   - title: "Learning to Assemble Geometric Shapes"
     authors: Jinhwi Lee, Jungtaek Kim, <strong>Hyunsoo Chung</strong>, Jaesik Park, Minsu Cho
     conference_short: IJCAI
-    conference: Proceedings of the International Joint Conference on Artificial Intelligence <strong>(IJCAI)</strong>, 2022.
+    conference: International Joint Conference on Artificial Intelligence <strong>(IJCAI)</strong>, 2022.
     pdf: https://arxiv.org/pdf/2205.11809
+    bibtex: https://dblp.org/rec/conf/ijcai/Lee0CPC22.html?view=bibtex
     image: ./assets/img/ijcai_teaser.PNG
 
   - title: "Brick-by-Brick: Combinatorial Construction with Deep Reinforcement Learning"
     authors: <strong>Hyunsoo Chung*</strong>, Jungtaek Kim*, Boris Kynazev, Jinhwi Lee, Graham W. Taylor, Jaesik Park, Minsu Cho
     conference_short: NeurIPS
-    conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2021.
+    conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2021.
     pdf: https://arxiv.org/pdf/2110.15481
+    bibtext: https://dblp.org/rec/conf/nips/ChungKKLTPC21.html?view=bibtex
     image: ./assets/img/neurips_bbb_teaser.PNG
 
   - title: "Fragment Relation Networks for Geometric Shape Assembly"
     authors: Jinhwi Lee, Jungtaek Kim, <strong>Hyunsoo Chung</strong>, Jaesik Park, Minsu Cho
     conference_short: NeurIPS
-    conference: Conference on Neural Information Processing Systems Workshop on Learning Meets Combinatorial Algorithms (LMCA) <strong>(NeurIPS-W)</strong>, 2020.
+    conference: NeurIPS Workshop on Learning Meets Combinatorial Algorithms <strong>(NeurIPS-W)</strong>, 2020.
     pdf: https://jungtaekkim.github.io/assets/pdf/papers/lmca_2020.pdf
     image: ./assets/img/lmca_teaser.PNG
 
   - title: "Combinatorial 3D Shape Generation via Sequential Assembly"
     authors: Jungtaek Kim, <strong>Hyunsoo Chung</strong>, Jinhwi Lee, Jaesik Park, Minsu Cho
     conference_short: NeurIPS
-    conference: Conference on Neural Information Processing Systems Workshop for Engineering Modeling, Simulation, and Design (ML4Eng) <strong>(NeurIPS-W)</strong>, 2020.
+    conference: NeurIPS Workshop for Engineering Modeling, Simulation, and Design <strong>(NeurIPS-W)</strong>, 2020.
     pdf: https://arxiv.org/pdf/2004.07414
+    bibtex: https://dblp.org/rec/journals/corr/abs-2004-07414.html?view=bibtex
     image: ./assets/img/ml4eng_teaser.PNG
