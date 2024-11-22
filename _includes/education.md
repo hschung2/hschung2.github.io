@@ -1,5 +1,5 @@
 ## 🎓 Educations
-<div style="display: flex; justify-content: space-between; width: 100%;">
+<div style="display: flex; justify-content: space-between; width: 100%; font-size: 1.2em;">
   <span><strong>MSc</strong> in Computer Science and Engineering @ POSTECH</span>
   <span>Sep. 2019 ~ Aug. 2021</span>
 </div>
@@ -10,7 +10,7 @@
   <li style="margin-bottom: 2px;">Thesis: Combinatorial Construction with Reinforcement Learning</li>
 </ul>
 
-<div style="display: flex; justify-content: space-between; width: 100%;">
+<div style="display: flex; justify-content: space-between; width: 100%; font-size: 1.2em;">
   <span><strong>BSc</strong> in Computer Engineering @ UIUC</span>
   <span>Aug. 2014 ~ May. 2019</span>
 </div>

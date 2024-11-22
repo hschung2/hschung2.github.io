@@ -6,6 +6,7 @@ main:
     conference: International Conference on Information and Knowledge Management, Short Research Paper Track <strong>(CIKM)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2408.00326
     bibtex: https://dblp.org/rec/conf/cikm/Chung0JC24.html?view=bibtex
+    blog_post: https://omnicommerce.ai/resources/exploiting-preferences/
     image: ./assets/img/cikm_pw_teaser.PNG
 
   - title: "Leveraging Uniformity of Normalized Embeddings for Sequential Recommendation"
@@ -13,6 +14,7 @@ main:
     conference_short: NeurIPS
     conference: NeurIPS Workshop on Self-Supervised Learning - Theory and Practice <strong>(NeurIPS-W)</strong>, 2023.
     pdf: https://jungtaekkim.github.io/assets/pdf/papers/ssl_tp_2023.pdf
+    blog_post: https://omnicommerce.ai/resources/normalized-embeddings-for-recommendation/
     image: ./assets/img/ssl_tp_teaser.PNG
 
   - title: "Learning to Assemble Geometric Shapes"
