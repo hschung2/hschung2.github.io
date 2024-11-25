@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## 👋 About Me
+## 💻 About Me
 
 I am a Machine Learning Engineer with over three years of experience, currently working at Omnious AI located in Seoul, South Korea. Previously, I received my Master’s Degree in Computer Science and Engineering from POSTECH, as well as my Bachelor’s Degree in Computer Engineering from the University of Illinois at Urbana-Champaign.
 

@@ -31,6 +31,7 @@ main:
     conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2021.
     pdf: https://arxiv.org/pdf/2110.15481
     bibtext: https://dblp.org/rec/conf/nips/ChungKKLTPC21.html?view=bibtex
+    blog_post: https://vectorinstitute.ai/vector-researchers-presenting-more-than-50-papers-at-neurips-2021/
     image: ./assets/img/neurips_bbb_teaser.PNG
 
   - title: "Fragment Relation Networks for Geometric Shape Assembly"
